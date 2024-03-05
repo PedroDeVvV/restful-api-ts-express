@@ -1,0 +1,41 @@
+2024-03-05 09:51:55:5155 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-05 09:52:31:5231 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-05 09:52:31:5231 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-05 09:53:49:5349 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-05 09:53:49:5349 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-05 09:53:52:5352 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-05 09:53:52:5352 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-05 10:01:56:156 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-05 10:01:56:156 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-05 10:02:02:22 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-05 10:02:02:22 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-05 10:02:33:233 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-05 10:02:33:233 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-05 10:03:09:39 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-05 10:03:09:39 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-05 10:03:11:311 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-05 10:03:11:311 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-05 10:03:12:312 - [35mhttp[39m: [35mGET /api/test 200 11 - 1.703 ms[39m
+[35m[39m
+2024-03-05 10:51:47:5147 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-05 10:51:47:5147 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-05 10:53:04:534 - [35mhttp[39m: [35mPOST /api/movie 200 22 - 1.552 ms[39m
+[35m[39m
+2024-03-05 10:54:06:546 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-05 10:54:06:546 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-05 10:54:24:5424 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-05 10:54:24:5424 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-05 10:54:35:5435 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-05 10:54:35:5435 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-05 10:56:34:5634 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-05 10:56:34:5634 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-05 10:57:12:5712 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-05 10:57:12:5712 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-05 10:57:16:5716 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-05 10:57:16:5716 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-05 10:57:46:5746 - [35mhttp[39m: [35mPOST /api/movie 201 149 - 35.587 ms[39m
+[35m[39m
+2024-03-05 11:15:06:156 - [35mhttp[39m: [35mPOST /api/movie 201 149 - 33.125 ms[39m
+[35m[39m
+2024-03-05 11:15:09:159 - [35mhttp[39m: [35mPOST /api/movie 201 149 - 13.779 ms[39m
+[35m[39m
