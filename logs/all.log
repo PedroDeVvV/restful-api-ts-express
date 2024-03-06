@@ -101,3 +101,5 @@
 2024-03-06 10:57:44:5744 - [32minfo[39m: [32mServer is running on port 3000[39m
 2024-03-06 10:58:24:5824 - [35mhttp[39m: [35mPOST /api/movie 201 292 - 35.331 ms[39m
 [35m[39m
+2024-03-06 11:16:01:161 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-06 11:16:01:161 - [32minfo[39m: [32mServer is running on port 3000[39m
