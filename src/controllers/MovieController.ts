@@ -12,6 +12,6 @@ export async function createMovie(req: Request, res: Response) {
     const movie = await MovieModel.create(data);
     return res.status(201).json(movie);
   } catch (e: any) {
-    Logger.error("Error to insert database: ", e.message);
+    return Logger.error("Error to insert database: ", e.message);
   }
 }

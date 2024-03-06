@@ -43,3 +43,61 @@
 2024-03-05 11:35:02:352 - [32minfo[39m: [32mServer is running on port 3000[39m
 2024-03-05 11:35:36:3536 - [35mhttp[39m: [35mPOST /api/movie 201 151 - 30.717 ms[39m
 [35m[39m
+2024-03-06 09:02:25:225 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-06 09:02:25:225 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-06 09:14:19:1419 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-06 09:14:19:1419 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-06 09:14:47:1447 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-06 09:14:47:1447 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-06 09:14:50:1450 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-06 09:14:50:1450 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-06 09:56:35:5635 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-06 09:56:35:5635 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-06 10:38:35:3835 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-06 10:38:35:3835 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-06 10:38:48:3848 - [35mhttp[39m: [35mPOST /api/movie 201 142 - 36.723 ms[39m
+[35m[39m
+2024-03-06 10:38:58:3858 - [35mhttp[39m: [35mPOST /api/movie 422 50 - 1.527 ms[39m
+[35m[39m
+2024-03-06 10:42:38:4238 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-06 10:42:38:4238 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-06 10:43:54:4354 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-06 10:43:54:4354 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-06 10:43:59:4359 - [35mhttp[39m: [35mPOST /api/movie 422 72 - 7.328 ms[39m
+[35m[39m
+2024-03-06 10:45:39:4539 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-06 10:45:39:4539 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-06 10:45:48:4548 - [35mhttp[39m: [35mPOST /api/movie 422 55 - 3.982 ms[39m
+[35m[39m
+2024-03-06 10:45:59:4559 - [35mhttp[39m: [35mPOST /api/movie 201 172 - 31.990 ms[39m
+[35m[39m
+2024-03-06 10:46:16:4616 - [35mhttp[39m: [35mPOST /api/movie 422 55 - 0.561 ms[39m
+[35m[39m
+2024-03-06 10:47:33:4733 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-06 10:47:33:4733 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-06 10:48:24:4824 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-06 10:48:24:4824 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-06 10:48:34:4834 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-06 10:48:34:4834 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-06 10:48:39:4839 - [35mhttp[39m: [35mPOST /api/movie 422 106 - 6.128 ms[39m
+[35m[39m
+2024-03-06 10:49:10:4910 - [35mhttp[39m: [35mPOST /api/movie 422 57 - 2.409 ms[39m
+[35m[39m
+2024-03-06 10:49:21:4921 - [35mhttp[39m: [35mPOST /api/movie 201 208 - 29.636 ms[39m
+[35m[39m
+2024-03-06 10:52:24:5224 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-06 10:52:24:5224 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-06 10:52:32:5232 - [35mhttp[39m: [35mPOST /api/movie 422 53 - 3.962 ms[39m
+[35m[39m
+2024-03-06 10:52:45:5245 - [35mhttp[39m: [35mPOST /api/movie 201 230 - 29.315 ms[39m
+[35m[39m
+2024-03-06 10:54:44:5444 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-06 10:54:44:5444 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-06 10:54:45:5445 - [35mhttp[39m: [35mPOST /api/movie 422 54 - 9.633 ms[39m
+[35m[39m
+2024-03-06 10:56:46:5646 - [35mhttp[39m: [35mPOST /api/movie 422 54 - 2.302 ms[39m
+[35m[39m
+2024-03-06 10:57:44:5744 - [32minfo[39m: [32mConnection successfuly[39m
+2024-03-06 10:57:44:5744 - [32minfo[39m: [32mServer is running on port 3000[39m
+2024-03-06 10:58:24:5824 - [35mhttp[39m: [35mPOST /api/movie 201 292 - 35.331 ms[39m
+[35m[39m
